@@ -1,0 +1,3 @@
+{"id":"Tanaka","msg":"Hi, I'm Tanaka."}
+{"id":"Tanaka","msg":"Hi, I'm Tanaka."}
+{"id":"suzuki","msg":"This is message board."}
